@@ -3,4 +3,4 @@ def square_area(a):
         raise ValueError("if either number was negative")
     return a*a
 
-print(square_area(4))
+print(square_area(3))
